@@ -1,0 +1,142 @@
+**Type 2 Diabetes – Stress-Induced HPA Axis Dysregulation Protocol**
+
+This protocol presents a supportive, multimodal therapeutic approach for patients with a stress-neurogenic subtype of Type 2 Diabetes Mellitus (T2DM), characterized by impaired glycemic regulation despite normal pancreatic beta-cell and renal function.
+
+It is particularly suited to cases where blood glucose dysregulation stems from neuroendocrine and autonomic hypersensitivity rather than pancreatic or renal dysfunction.
+
+**Note on SSRI/SNRI Antidepressant Use**
+
+**Clinical caution is required. The simultaneous administration of tryptophan and tyrosine (used in this protocol) with SSRIs or SNRIs may trigger serotonin syndrome and pose serious health risks.**
+
+This protocol is designed on the basis of observed or suspected impairments in:
+- Hypothalamic–Pituitary–Adrenal (HPA) axis response
+- Corticotropin-releasing hormone (CRH) sensitivity
+- Mineralocorticoid receptor (MR) responsiveness
+
+### Core Mechanisms
+- **Stabilization of dopamine and serotonin systems** → Recovery of unstable cortisol responses from HPA axis
+- **Restoration of MR sensitivity** → Regulation of autonomic responses
+- **Reduction of hypoglycemic shock risk** → Mitigation of nocturnal glucose crash peaks
+
+---
+
+## Target Patient Criteria
+
+1. Irregular glucose spikes regardless of food intake
+2. Delayed hypoglycemia recovery (suggesting delayed CRH activation and drop-phase patterns)
+3. Fasting glucose that fluctuates without a clear pattern (requires CGM observation)
+4. Postprandial glucose spikes before digestive absorption (possible psychological triggers)
+5. Normal pancreatic/renal function with abnormal glycemic patterns
+6. Patients with access to CGM (Continuous Glucose Monitoring)
+
+---
+
+## [Phase 1 – Recovery Strategy (3 to 5 weeks)]
+
+### Morning Routine (Post-breakfast)
+- **Vitamin B6, B12** – Support for neurochemical balance and monoamine metabolism
+- **Rhodiola Rosea** – Modulation of excessive CRH response, adrenal support, enhances HPA reactivity
+- **L-Theanine** – GABAergic calming, supports HPA buffering
+- **Vitamin C, D3** – Antioxidant support, MR sensitivity recovery, immune balance
+- **Omega-3 (EPA/DHA)** – Retinal/vascular protection, inflammation modulation
+- **Metformin (Gemigliptin+)** – Suppresses hepatic glucose production, mitigates postprandial glucose spikes
+- **Carnosine** – Inhibits lens glycation, ocular protection
+
+> Recommend balanced carb-protein breakfast, light exposure, and light walking
+
+### Evening Routine (Post-dinner)
+- **Vitamin C, D3 (2nd dose)** – Oxidative stress reduction
+- **Tryptophan (250–500mg)** – Promotes serotonin/melatonin synthesis, supports sleep
+- **Tyrosine (250mg)** – Dopamine precursor, improves CRH response. Used in PM to prevent nocturnal neuroglucopenia; may shift to AM if no hypoglycemia risk
+- **Magnesium glycinate** – Muscle relaxation, parasympathetic stabilization, sleep quality
+
+> Recommend complex carb + protein dinner including blueberries, yogurt, and eggs
+
+### Pre-Sleep Routine (0–60 min before bedtime)
+- **Gr-8 (GRA8) class probiotics** – Stabilization of HPA-GBA (gut-brain axis) via microbiome modulation
+
+> Take tryptophan and tyrosine at least 60 minutes apart; consume with warm water only
+
+---
+
+## Gr-8: Functional Contributions to HPA Stabilization by Strain
+
+1. **Bifidobacterium longum (BI-05)** – Suppresses excessive CRH, restores cortisol rhythm, improves insulin sensitivity
+2. **Lactobacillus rhamnosus (Lr-32)** – Enhances GABA receptor sensitivity, relieves stress, modulates HPA overactivation
+3. **Bifidobacterium lactis (BI-04)** – Reduces inflammatory cytokines, strengthens gut lining, supports glucose metabolism
+4. **Lactobacillus casei (Lc-11)** – Stabilizes dopamine levels, modulates small intestinal immune balance
+5. **Lactobacillus acidophilus (La-14)** – Supports beneficial gut flora, enhances function of other strains
+6. **Bifidobacterium bifidum (Bb-02)** – Suppresses TNF-α, reduces external autonomic stress signals
+7. **Lactobacillus salivarius (Ls-33)** – Improves IgA response, supports oral-gut axis regulation
+8. **Streptococcus thermophilus (St-21)** – Regulates gut pH, supports postprandial glucose stabilization
+
+---
+
+## Additional Supportive Recommendations
+
+- **Onion peel tea** – Antioxidant and cholesterol regulation support
+- **Blueberries** – Source of polyphenols, improves insulin sensitivity
+
+---
+
+## [Phase 2 – Stabilization Strategy (5 to 12 weeks)]
+
+Applies when HbA1c improves and glucose spike patterns stabilize
+
+### Morning Routine
+- Maintain all supplements from Phase 1
+- **Tyrosine** – Moved to morning due to reduced neuroglucopenic risk. Mitigates LAT1 competition with tryptophan
+
+> Consult with physician before stopping or tapering metformin. If unstable, use metformin IR at night or XR in the following morning. Monitor for at least 3 days under CGM.
+
+### Evening Routine
+- Maintain all supplements from Phase 1
+- Dinner snack becomes optional. Tyrosine moved to AM to reduce LAT1 transport competition
+
+### Pre-Sleep Routine
+- Continue probiotics (Gr-8) until strain colonization confirmed
+- Avoid taking with zero-calorie drinks or on an empty stomach
+
+---
+
+## [Phase 3 – Drug Reduction Strategy (3 to 6 months)]
+
+Applies when HbA1c and fasting glucose remain normal for over 2 weeks
+
+### Morning Routine
+- **Vitamin B6, B12** – Reduce to alternate days; high-dose long-term use may cause neural overstimulation
+- **Rhodiola Rosea** – Gradually reduce and discontinue (e.g., low-dose, alternate-day taper)
+- **L-Theanine** – Optional, but recommended
+- **Vitamin C, D3** – Continue
+- **Omega-3 (EPA/DHA)** – Continue
+- **Carnosine** – Continue (protects crystalline structures)
+- **Tyrosine** – Gradually reduce and discontinue; consider dopamine depletion risk
+
+### Evening Routine
+- **Vitamin C, D3** – Continue
+- **Tryptophan (250–500mg)** – Optional
+- **Magnesium glycinate** – Occasional use
+- **NAC (600mg)** – Optional; may support post-HPA recovery oxidative stress clearance (GI-tolerant, intermittent use)
+
+> NAC complements carnosine; recommended only in Phase 3
+
+### Pre-Sleep Routine
+- **Gr-8 Probiotics** – Reduce to alternate days for maintenance
+- Avoid zero-calorie drinks or fasting conditions before intake
+
+This protocol is designed to support individual HPA-axis recovery. **All applications must be guided by medical professionals and CGM-based pattern monitoring.**
+
+### Best-suited Patient Criteria:
+- Documented HPA hypoactivity or CRH insensitivity
+- Large fasting glucose fluctuations with non-meal-related spikes on CGM
+- Normal pancreatic and renal evaluations, with strong psychological contributors suspected
+
+### Therapeutic Targets:
+1. Normalize cortisol feedback rhythm
+2. Restore CRH responsiveness
+3. Stabilize autonomic nervous system via MR regulation
+
+This document is based on clinical and functional medicine insights. 
+While the proposed routine may aid a specific T2DM subtype, 
+it is not a substitute for standard medical care and 
+must be applied under professional supervision.

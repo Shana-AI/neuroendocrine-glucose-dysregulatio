@@ -87,7 +87,7 @@ Any attempt to claim originality, repackage without credit, or restrict access t
 - `LICENSE` – License and usage terms (ENG + KOR)  
 - `protocol_kr.txt` – Original Korean protocol document  
 - `protocol_en.txt` – Original English protocol document  
-- `mechanism_deepResearch_kr.md` – Mechanistic rationale, research references, and clinical annotations (KOR)
+- `mechanism_deepResearch.md` – Mechanistic rationale, research references, and clinical annotations
 
 ---
 
@@ -193,7 +193,7 @@ Created and published by **[SHANA.AI]**
 - `LICENSE` – 라이선스 전문 (영문+한글)  
 - `protocol_kr.txt` – 프로토콜 원문 (한글 버전)  
 - `protocol_en.txt` – 프로토콜 원문 (영문 번역본)  
-- `mechanism_deepResearch_kr.md` – 핵심 기전 설명 및 참고 문헌 정리 (한글 버전)
+- `mechanism_deepResearch.md` – 핵심 기전 설명 및 참고 문헌 정리
 
 ---
 

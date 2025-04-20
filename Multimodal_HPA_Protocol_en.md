@@ -9,11 +9,13 @@ It is particularly suited to cases where blood glucose dysregulation stems from 
 **Clinical caution is required. The simultaneous administration of tryptophan and tyrosine (used in this protocol) with SSRIs or SNRIs may trigger serotonin syndrome and pose serious health risks.**
 
 This protocol is designed on the basis of observed or suspected impairments in:
+
 - Hypothalamic–Pituitary–Adrenal (HPA) axis response
 - Corticotropin-releasing hormone (CRH) sensitivity
 - Mineralocorticoid receptor (MR) responsiveness
 
 ### Core Mechanisms
+
 - **Stabilization of dopamine and serotonin systems** → Recovery of unstable cortisol responses from HPA axis
 - **Restoration of MR sensitivity** → Regulation of autonomic responses
 - **Reduction of hypoglycemic shock risk** → Mitigation of nocturnal glucose crash peaks
@@ -34,6 +36,7 @@ This protocol is designed on the basis of observed or suspected impairments in:
 ## [Phase 1 – Recovery Strategy (3 to 5 weeks)]
 
 ### Morning Routine (Post-breakfast)
+
 - **Vitamin B6, B12** – Support for neurochemical balance and monoamine metabolism
 - **Rhodiola Rosea** – Modulation of excessive CRH response, adrenal support, enhances HPA reactivity
 - **L-Theanine** – GABAergic calming, supports HPA buffering
@@ -45,14 +48,15 @@ This protocol is designed on the basis of observed or suspected impairments in:
 > Recommend balanced carb-protein breakfast, light exposure, and light walking
 
 ### Evening Routine (Post-dinner)
+
 - **Vitamin C, D3 (2nd dose)** – Oxidative stress reduction
 - **Tryptophan (250–500mg)** – Promotes serotonin/melatonin synthesis, supports sleep
-- **Tyrosine (250mg)** – Dopamine precursor, improves CRH response. Used in PM to prevent nocturnal neuroglucopenia; may shift to AM if no hypoglycemia risk
 - **Magnesium glycinate** – Muscle relaxation, parasympathetic stabilization, sleep quality
 
 > Recommend complex carb + protein dinner including blueberries, yogurt, and eggs
 
 ### Pre-Sleep Routine (0–60 min before bedtime)
+
 - **Gr-8 (GRA8) class probiotics** – Stabilization of HPA-GBA (gut-brain axis) via microbiome modulation
 
 > Take tryptophan and tyrosine at least 60 minutes apart; consume with warm water only
@@ -84,16 +88,19 @@ This protocol is designed on the basis of observed or suspected impairments in:
 Applies when HbA1c improves and glucose spike patterns stabilize
 
 ### Morning Routine
+
 - Maintain all supplements from Phase 1
-- **Tyrosine** – Moved to morning due to reduced neuroglucopenic risk. Mitigates LAT1 competition with tryptophan
+- **Tyrosine** – Mitigates LAT1 competition with tryptophan
 
 > Consult with physician before stopping or tapering metformin. If unstable, use metformin IR at night or XR in the following morning. Monitor for at least 3 days under CGM.
 
 ### Evening Routine
+
 - Maintain all supplements from Phase 1
 - Dinner snack becomes optional. Tyrosine moved to AM to reduce LAT1 transport competition
 
 ### Pre-Sleep Routine
+
 - Continue probiotics (Gr-8) until strain colonization confirmed
 - Avoid taking with zero-calorie drinks or on an empty stomach
 
@@ -104,6 +111,7 @@ Applies when HbA1c improves and glucose spike patterns stabilize
 Applies when HbA1c and fasting glucose remain normal for over 2 weeks
 
 ### Morning Routine
+
 - **Vitamin B6, B12** – Reduce to alternate days; high-dose long-term use may cause neural overstimulation
 - **Rhodiola Rosea** – Gradually reduce and discontinue (e.g., low-dose, alternate-day taper)
 - **L-Theanine** – Optional, but recommended
@@ -113,6 +121,7 @@ Applies when HbA1c and fasting glucose remain normal for over 2 weeks
 - **Tyrosine** – Gradually reduce and discontinue; consider dopamine depletion risk
 
 ### Evening Routine
+
 - **Vitamin C, D3** – Continue
 - **Tryptophan (250–500mg)** – Optional
 - **Magnesium glycinate** – Occasional use
@@ -121,22 +130,25 @@ Applies when HbA1c and fasting glucose remain normal for over 2 weeks
 > NAC complements carnosine; recommended only in Phase 3
 
 ### Pre-Sleep Routine
+
 - **Gr-8 Probiotics** – Reduce to alternate days for maintenance
 - Avoid zero-calorie drinks or fasting conditions before intake
 
 This protocol is designed to support individual HPA-axis recovery. **All applications must be guided by medical professionals and CGM-based pattern monitoring.**
 
 ### Best-suited Patient Criteria:
+
 - Documented HPA hypoactivity or CRH insensitivity
 - Large fasting glucose fluctuations with non-meal-related spikes on CGM
 - Normal pancreatic and renal evaluations, with strong psychological contributors suspected
 
 ### Therapeutic Targets:
+
 1. Normalize cortisol feedback rhythm
 2. Restore CRH responsiveness
 3. Stabilize autonomic nervous system via MR regulation
 
-This document is based on clinical and functional medicine insights. 
-While the proposed routine may aid a specific T2DM subtype, 
-it is not a substitute for standard medical care and 
+This document is based on clinical and functional medicine insights.
+While the proposed routine may aid a specific T2DM subtype,
+it is not a substitute for standard medical care and
 must be applied under professional supervision.

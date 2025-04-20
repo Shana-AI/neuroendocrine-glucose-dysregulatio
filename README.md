@@ -1,9 +1,30 @@
+An open-access protocol targeting HPA-axis-mediated dysglycemia in Type 2 Diabetes patients with neuroendocrine dysregulation.
+
 # Neuroendocrine Glucose Dysregulation Protocol (HPA-Axis Variant T2DM)
+
+> 🌐 This file includes both English and Korean versions. (한국어 설명은 후반부에 있습니다)
 
 > **📢 First Public Release**: April 20, 2025  
 > This repository serves as a formal defensive publication to prevent proprietary claims on this work.
 
 ---
+
+> ⚠️ **WARNING: CLINICAL PROTOCOL**  
+> This repository contains medically sensitive content. Do not implement any part without professional guidance and CGM-based oversight.  
+> See [DISCLAIMER.md](./DISCLAIMER.md) before proceeding.
+
+---
+
+## 📚 Table of Contents
+
+- [Overview](#-overview)
+- [Target Patient Profile](#-target-patient-profile)
+- [Core Mechanisms](#-core-mechanisms)
+- [Medical Safety Notice](#-medical-safety-notice)
+- [License & Attribution](#-license--attribution)
+- [Defensive Disclosure](#-defensive-disclosure-statement)
+- [File Structure](#-file-structure)
+- [Contact](#-author--contact)
 
 ### 🧠 Overview
 
@@ -21,11 +42,11 @@ The strategy integrates **nutritional, pharmacological, chronobiological**, and 
 
 This protocol may be relevant to individuals who:
 
-- Experience irregular glucose spikes unrelated to meals  
-- Display delayed recovery from hypoglycemia (suspected CRH hypo-responsiveness)  
-- Exhibit highly variable fasting glucose patterns (CGM-verified)  
-- Show psychosomatic glucose elevations pre-digestion  
-- Have normal pancreatic and renal function  
+- Experience irregular glucose spikes unrelated to meals
+- Display delayed recovery from hypoglycemia (suspected CRH hypo-responsiveness)
+- Exhibit highly variable fasting glucose patterns (CGM-verified)
+- Show psychosomatic glucose elevations pre-digestion
+- Have normal pancreatic and renal function
 - Can be continuously monitored using CGM (Continuous Glucose Monitoring)
 
 ---
@@ -59,8 +80,8 @@ This protocol includes bioactive components—such as **tryptophan** and **tyros
 
 This project is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-- ✅ Free to use, adapt, and redistribute  
-- ❗ Attribution to the original author is **required**  
+- ✅ Free to use, adapt, and redistribute
+- ❗ Attribution to the original author is **required**
 - 🚫 Commercial repackaging, exclusive claiming, or rebranding without credit is **strictly prohibited**
 
 See the [`LICENSE`](./LICENSE) file for full terms.
@@ -73,8 +94,8 @@ This publication is a **formal defensive disclosure**, released openly to suppor
 
 By establishing **prior art**, it prevents others from:
 
-- Filing patents or IP claims on the ideas presented herein  
-- Exclusively appropriating this protocol for commercial control  
+- Filing patents or IP claims on the ideas presented herein
+- Exclusively appropriating this protocol for commercial control
 - Misrepresenting authorship or origin of this work
 
 Use in research, healthcare, and educational settings is **encouraged**—**with proper attribution**.  
@@ -84,10 +105,24 @@ Any attempt to claim originality, repackage without credit, or restrict access t
 
 ### 📁 File Structure
 
-- `LICENSE` – License and usage terms (ENG + KOR)  
-- `protocol_kr.txt` – Original Korean protocol document  
-- `protocol_en.txt` – Original English protocol document  
-- `mechanism_deepResearch.md` – Mechanistic rationale, research references, and clinical annotations
+- `LICENSE`  
+  ↳ License terms in both English and Korean (CC BY 4.0)
+
+- `DISCLAIMER.md`  
+  ↳ Clinical risk warnings, legal disclaimers, and medical safety terms  
+  ↳ Bilingual (ENG + KOR)
+
+- `protocol_en.txt`  
+  ↳ Original English-language protocol documentation
+
+- `protocol_kr.txt`  
+  ↳ Original Korean-language protocol documentation
+
+- `mechanism_deepResearch.md`  
+  ↳ Scientific rationale, pathway targeting logic, and source-linked mechanistic summaries
+
+- `clinical_synerge_review_kr.md`  
+  ↳ AI-driven synergy mapping and interaction analysis of pharmacological agents and nutraceuticals (Korean)
 
 ---
 
@@ -100,13 +135,32 @@ Created and published by **[SHANA.AI]**
 
 ---
 
+한국어 버전
 
+# 신경내분비 기반 혈당 조절 이상 프로토콜 (HPA 축 변이형 제2형 당뇨)
 
-# 스트레스 기반 내분비성 혈당조절 장애형 2형 당뇨 치료 프로토콜  
-(Neuroendocrine Glucose Dysregulation Protocol – HPA-Axis Variant T2DM)
+> 📢 **최초 공개일**: 2025년 4월 20일  
+> 본 저장소는 해당 프로토콜에 대한 **선행 공개(disclosure)** 자료이며, 어떠한 특허 청구나 독점 주장도 **방지**하는 목적을 가집니다.
 
-> **📢 최초 공개일**: 2025년 4월 20일  
-> 본 저장소는 해당 프로토콜의 특허화 및 독점적 권리 주장을 사전에 방지하기 위한 **공식 방어적 공개(Defensive Publication)** 목적으로 배포됩니다.
+---
+
+> ⚠️ **주의: 임상 관련 프로토콜**  
+> 본 저장소에는 의료적 민감성을 가진 정보가 포함되어 있습니다.  
+> 전문적인 의료 감독 및 CGM(연속혈당측정기) 기반의 혈당 모니터링 없이 **직접 적용하는 것은 절대 금지**됩니다.  
+> 자세한 위험 안내는 [`DISCLAIMER.md`](./DISCLAIMER.md) 문서를 참조해 주세요.
+
+---
+
+## 📚 목차
+
+- [개요](#-개요)
+- [대상 환자 프로파일](#-적용-대상)
+- [핵심 작용 기전](#-핵심-기전)
+- [의료 안전 주의사항](#-의료-안전-주의)
+- [라이선스 및 저작권 안내](#-라이선스-및-저작권-안내)
+- [선행공개 목적 안내](<#-방어적-공개(Defensive-Disclosure)-고지>)
+- [📁 파일 구성](#-파일-구성)
+- [저자 및 연락처](#-저자-및-연락처)
 
 ---
 
@@ -127,11 +181,11 @@ Created and published by **[SHANA.AI]**
 
 다음과 같은 특성을 보이는 환자에게 적용이 고려될 수 있습니다:
 
-- 식사와 무관하게 비정형적인 혈당 스파이크가 발생하는 경우  
-- 저혈당 회복이 지연되며, CRH 민감도 저하가 의심되는 경우  
-- 연속혈당측정기(CGM) 상 공복혈당 변동성이 큰 경우  
-- 식사 직후가 아닌 소화 전 단계에서 혈당이 급등하는 심리적 반응성 케이스  
-- 췌장 및 신장 기능이 정상임에도 혈당 조절이 불안정한 환자  
+- 식사와 무관하게 비정형적인 혈당 스파이크가 발생하는 경우
+- 저혈당 회복이 지연되며, CRH 민감도 저하가 의심되는 경우
+- 연속혈당측정기(CGM) 상 공복혈당 변동성이 큰 경우
+- 식사 직후가 아닌 소화 전 단계에서 혈당이 급등하는 심리적 반응성 케이스
+- 췌장 및 신장 기능이 정상임에도 혈당 조절이 불안정한 환자
 - CGM 기반 모니터링이 가능한 환자
 
 ---
@@ -154,8 +208,8 @@ Created and published by **[SHANA.AI]**
 본 프로토콜에는 **트리토판**과 **타이로신** 등 생리활성 물질이 포함되어 있으며,  
 **SSRI 또는 SNRI 계열의 항우울제와 병용 시 심각한 부작용(세로토닌 증후군, 고혈압 위기 등)**이 발생할 수 있습니다.
 
-- 반드시 해당 약물 복용 여부를 사전에 확인해야 하며,  
-- 모든 루틴은 **CGM 기반 혈당 패턴 분석**이 전제되어야 합니다.  
+- 반드시 해당 약물 복용 여부를 사전에 확인해야 하며,
+- 모든 루틴은 **CGM 기반 혈당 패턴 분석**이 전제되어야 합니다.
 - **전문의 상담, 약물 상호작용, CGM 관련 내용은 수정하거나 생략해서는 안 됩니다.**
 
 > 의료 자문 없이의 자가 적용 또는 오해에 의한 변형 사용은 심각한 위해를 초래할 수 있습니다.
@@ -166,8 +220,8 @@ Created and published by **[SHANA.AI]**
 
 이 프로젝트는 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**에 따라 배포됩니다.
 
-- ✅ 누구나 자유롭게 사용, 수정, 재배포할 수 있습니다  
-- ❗ 단, 원저작자에 대한 출처 표시(Attribution)는 필수입니다  
+- ✅ 누구나 자유롭게 사용, 수정, 재배포할 수 있습니다
+- ❗ 단, 원저작자에 대한 출처 표시(Attribution)는 필수입니다
 - 🚫 상업적 재포장, 독점 주장, 출처 제거는 엄격히 금지됩니다
 
 자세한 사용 조건은 [`LICENSE`](./LICENSE) 파일을 참조하세요.
@@ -179,8 +233,8 @@ Created and published by **[SHANA.AI]**
 본 문서는 **방어적 공개(Defensive Disclosure)** 문서로서,  
 과학적 협업과 공공 임상 활용을 촉진함과 동시에, 다음과 같은 행위를 사전에 차단하기 위해 게시됩니다:
 
-- 본 문서의 내용을 기반으로 한 **특허 출원 및 지식재산 독점화**  
-- 임상 프로토콜을 임의적으로 재포장하여 **상업적 소유로 주장**  
+- 본 문서의 내용을 기반으로 한 **특허 출원 및 지식재산 독점화**
+- 임상 프로토콜을 임의적으로 재포장하여 **상업적 소유로 주장**
 - 원저작자의 기여를 은폐하거나 **오리지널리티를 왜곡하는 행위**
 
 본 프로토콜은 학술·임상·교육적 목적의 사용을 적극 권장하며,  
@@ -190,10 +244,12 @@ Created and published by **[SHANA.AI]**
 
 ### 📁 파일 구성
 
-- `LICENSE` – 라이선스 전문 (영문+한글)  
-- `protocol_kr.txt` – 프로토콜 원문 (한글 버전)  
-- `protocol_en.txt` – 프로토콜 원문 (영문 번역본)  
-- `mechanism_deepResearch.md` – 핵심 기전 설명 및 참고 문헌 정리
+- `LICENSE` – 라이선스 전문 (영문+한글 포함)
+- `DISCLAIMER.md` – 임상 위험 고지 및 법적 책임 안내 (이중언어)
+- `protocol_kr.txt` – 프로토콜 원문 (한글 버전)
+- `protocol_en.txt` – 프로토콜 원문 (영문 번역본)
+- `mechanism_deepResearch.md` – 작용 기전, 생리학적 설명, 참고 문헌
+- `clinical_synerge_review_kr.md` – 주요 약물 및 보충제의 시너지 효과 및 상호작용에 대한 AI 기반 분석 (한글)
 
 ---
 
@@ -206,4 +262,3 @@ Created and published by **[SHANA.AI]**
 > 만성 대사질환 영역에서의 **지식 독점화에 대한 저항**을 목적으로 공개되었습니다.
 
 ---
-

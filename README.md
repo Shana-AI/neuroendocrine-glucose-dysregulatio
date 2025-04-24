@@ -7,7 +7,7 @@ An open-access protocol targeting HPA-axis-mediated dysglycemia in Type 2 Diabet
 > **📢 First Public Release**: April 20, 2025  
 > This repository serves as a formal defensive publication to prevent proprietary claims on this work.
 
-#As of April 19, 2025, an ongoing N=1 clinical observation has been initiated.
+##As of April 19, 2025, an ongoing N=1 clinical observation has been initiated.
 The protocol is being administered in a gradual and cautious manner.
 Observational findings will be shared in future reports, and any updates to the clinical routine will be continuously reflected in this GitHub repository.
 
@@ -146,7 +146,8 @@ Created and published by **[SHANA.AI]**
 > 📢 **최초 공개일**: 2025년 4월 20일  
 > 본 저장소는 해당 프로토콜에 대한 **선행 공개(disclosure)** 자료이며, 어떠한 특허 청구나 독점 주장도 **방지**하는 목적을 가집니다.
 
-# 2025년 4월 19일 부터 현재 N=1 임상이 진행중이며, 점진적이고 조심스러운 투여를 진행하고있습니다. 관찰결과는 추후 리포트가 공유될것이며 클리닉의 변동이 있을시 지속적으로
+## 2025년 4월 19일 부터 현재 N=1 임상이 진행중이며, 점진적이고 조심스러운 투여를 진행하고있습니다. 관찰결과는 추후 리포트가 공유될것이며 클리닉의 변동이 있을시 지속적으로
+
 깃허브 레포에 업데이트 될 예정입니다.
 
 ---
@@ -269,4 +270,5 @@ Created and published by **[SHANA.AI]**
 > 만성 대사질환 영역에서의 **지식 독점화에 대한 저항**을 목적으로 공개되었습니다.
 
 ---
+
 ---

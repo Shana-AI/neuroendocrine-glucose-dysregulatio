@@ -133,7 +133,7 @@ Any attempt to claim originality, repackage without credit, or restrict access t
 ### ✍️ Author & Contact
 
 Created and published by **[SHANA.AI]**  
-📧 Contact for academic collaboration: **ssic4284@gmail.com**
+📧 Contact: **elshamus@shana-ai.com**
 
 > This work reflects a commitment to **open-access science**, **clinical transparency**, and **the prevention of exploitative IP claims** in the field of chronic metabolic care.
 
@@ -264,7 +264,7 @@ Created and published by **[SHANA.AI]**
 ### ✍️ 저자 및 연락처
 
 작성 및 공개: **[SHANA.AI]**  
-📧 문의: **ssic4284@gmail.com**
+📧 문의: **elshamus@shana-ai.com**
 
 > 본 작업은 **오픈 액세스 과학**, **임상 투명성**, 그리고  
 > 만성 대사질환 영역에서의 **지식 독점화에 대한 저항**을 목적으로 공개되었습니다.
